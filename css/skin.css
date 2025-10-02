@@ -1,0 +1,38 @@
+/*background*/
+.jqueryslidemenu a.active,
+.ei-slider-thumbs li.ei-slider-element,
+.ei-slider-thumbs li a:hover,
+.toggle_container,
+span.teaser_icon:hover,
+a.read_more:hover,
+#contact-form p input#submit:hover,
+.search_button:hover,
+.drop_cap:hover {
+background-color:#00aec7 !important;
+}
+
+/*color*/
+.ei-title span,
+.teaser span,
+.widget_container span,
+.content h3 span,
+.content_wide .widget_container h4:hover {
+    color:#00aec7 !important;
+}
+
+
+/*border*/
+.trigger_container,
+body {
+    /* border-top: 4px solid #00aec7 !important; */
+ }
+ 
+ span.trigger{
+ border-bottom:10px solid #00aec7 !important;
+ }
+ 
+ #contact-area textarea:focus, #contact-area input:focus,
+ a.read_more:hover,
+ #contact-form p input#submit:hover{
+ border:1px solid #00aec7 !important;
+ }
